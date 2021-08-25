@@ -1,0 +1,12 @@
+@import "./variable.scss";
+@import "./normalize.scss";
+@import "./transition.scss";
+@import "./component.scss";
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  outline: none;
+  text-decoration: none;
+}

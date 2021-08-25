@@ -1,0 +1,111 @@
+/* skin */
+.skin-leave-active,
+.skin-enter-active {
+  transition: all 0.2s;
+}
+
+.skin-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.skin-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* transparent */
+.transparent-leave-active,
+.transparent-enter-active {
+  transition: all 0.3s;
+}
+
+.transparent-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.transparent-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* moon */
+.moon-leave-active,
+.moon-enter-active {
+  transition: all 0.4s;
+}
+
+.moon-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.moon-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* foldLeft */
+.foldLeft-leave-active,
+.foldLeft-enter-active {
+  transition: all 0.5s;
+}
+
+.foldLeft-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.foldLeft-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* foldRight */
+.foldRight-leave-active,
+.foldRight-enter-active {
+  transition: all 0.6s;
+}
+
+.foldRight-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.foldRight-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* lemon */
+.lemon-leave-active,
+.lemon-enter-active {
+  transition: all 0.7s;
+}
+
+.lemon-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.lemon-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+/* text */
+.text-leave-active,
+.text-enter-active {
+  transition: all 0.7s;
+}
+
+.text-enter-from {
+  opacity: 0;
+  transform: translateX(100px);
+}
+
+.text-leave-to {
+  opacity: 0;
+  transform: translateX(100px);
+}
